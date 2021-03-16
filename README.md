@@ -9,10 +9,10 @@ that I'm proud of creating or want to share with others.
 **She/Her**
 
  - \~My Biggest Project\~:<br>
-[My Minecraft b1.7.3 mod, MegaMod](https://github.com/OldHaven-Network/MegaMod-Mixins/)
+**[My Minecraft b1.7.3 mod, MegaMod](https://github.com/OldHaven-Network/MegaMod-Mixins/)**
 
  - \~Fun Fact\~:<br>
-I'm also a [blogger](https://blog.cutezy.pink)!
+**I'm also a [blogger](https://blog.cutezy.pink)!**
 
 and lastly...<br>
 ![Trans Flag](https://github.com/cutezyash/cutezyash/raw/main/trans-flag.jpg)<br>
