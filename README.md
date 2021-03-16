@@ -1,16 +1,19 @@
-### Hi there 👋
+### Heyo! ❤
+My name is Ashley or otherwise known online as Cutezy Ash.<br>
+I've been coding since 2009 or so. 
 
-<!--
-**cutezyash/cutezyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is mostly just the place where I share things<br>
+that I'm proud of creating or want to share with others.
 
-Here are some ideas to get you started:
+ - \~Pronouns\~:<br>
+**She/Her**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - \~My Biggest Project\~:<br>
+[My Minecraft b1.7.3 mod, MegaMod](https://github.com/OldHaven-Network/MegaMod-Mixins/)
+
+ - \~Fun Fact\~:<br>
+I'm also a [blogger](https://blog.cutezy.pink)!
+
+and lastly...<br>
+![Trans Flag](https://github.com/cutezyash/cutezyash/raw/main/trans-flag.jpg)<br>
+[Trans rights are human rights](https://blog.cutezy.pink/?p=94)
